@@ -1,4 +1,6 @@
 # lit JS webcomponents
+Dont use lit.dev framework, dont use webcomponents. 
+
 ## Promises
 Webcomponents very promising, future is bright, birds are soaring, sheeps are jumping
 * it's superfast (compered to react, so little layering)
@@ -7,8 +9,9 @@ Webcomponents very promising, future is bright, birds are soaring, sheeps are ju
 
 ## No never
 css is used to use make styleing consistent through website
-*  you cant apply every style to down to element ( you dont have time )
+*  you need apply every style to down to every element you have created ( you dont have time )
 *  you cant understand if code applies, you just feel/see 
 *  they cant provide working example ( cause it would be dissestar )
 *  for one whole day I cant pass through nav/hero
+* whole project is like student project, that enough uncompleted to get grade but  uncompleted to be useful.
 
