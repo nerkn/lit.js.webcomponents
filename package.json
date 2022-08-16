@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "dev": "web-dev-server --node-resolve --open --watch --port 3330"
+  },
+  "dependencies": {
+    "lit": "^2.3.0"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.1.33"
+  }
+}
